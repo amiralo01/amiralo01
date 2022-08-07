@@ -15,6 +15,7 @@
   <img align="center" alt="Amiraldo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Amiraldo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/958178063198322748/990445884665905172/Eudesenho.png?width=676&height=676">
 </div>
+  </br>
   
 ##
  
@@ -23,9 +24,9 @@
  <a href="https://discord.com/channels/691382339669852291/691382340504780833" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/#search/amiraldo.f19%40gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amiraldo-f-28a84123b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</br>
+![snake gif](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)

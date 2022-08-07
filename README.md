@@ -27,6 +27,6 @@
  
 </div>
 </br>
-![snake gif](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
+![snake gif](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)

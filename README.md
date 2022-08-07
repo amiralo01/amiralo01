@@ -11,6 +11,7 @@
   <img align="center" alt="Amiraldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amiraldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amiraldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Amiraldo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Amiraldo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/958178063198322748/990445884665905172/Eudesenho.png?width=676&height=676">
 </div>
   

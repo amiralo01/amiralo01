@@ -28,8 +28,9 @@
 </br>
 
 <p align="">
- <img src="https://media.tenor.com/GBdIH5sL4XQAAAAC/the-rock-rock.gif" width="350">
+ <img src="https://media.tenor.com/GBdIH5sL4XQAAAAC/the-rock-rock.gif" width="300">
 </p>
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
 
 ![snake gif](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)

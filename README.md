@@ -13,8 +13,8 @@
   <img align="center" alt="Amiraldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amiraldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Amiraldo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Amiraldo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/sql-original.svg">
-  <img align="center" alt="Amiraldo-PLPGSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/plpgsql-original.svg">
+  <img align="center" alt="Amiraldo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="Amiraldo-PLPGSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plpgsql/plpgsql-original.svg">
 </div>
   </br>
   

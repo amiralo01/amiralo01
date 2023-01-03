@@ -21,7 +21,7 @@
   <img align="center" alt="Amiraldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amiraldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Amiraldo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Amiraldo-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C#/C#-original.svg">
+  <img align="center" alt="Amiraldo-C#" height="30" width="40" src="https://img.icons8.com/color/512/c-sharp-logo-2.png">
 </div>
   </br>
   

@@ -21,6 +21,8 @@
   <img align="center" alt="Amiraldo-C#" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Amiraldo-Unity" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Amiraldo-PLpgSQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Amiraldo-Canva" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg">
+  <img align="center" alt="Amiraldo-Blender" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg">
 </div>
   </br>
   
@@ -34,7 +36,4 @@
 </div>
 </br>
 
-
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
-
-![snake gif](https://github.com/amiralo01/amiralo01/blob/output/github-contribution-grid-snake.svg)

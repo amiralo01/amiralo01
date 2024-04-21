@@ -39,3 +39,9 @@
 </br>
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
+
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiralo01&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiralo01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | 
+| ----------- | ----------- |
+
+![Status](./profile-3d-contrib/profile-night-green.svg)

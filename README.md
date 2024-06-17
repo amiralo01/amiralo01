@@ -25,6 +25,8 @@
   <img align="center" alt="Amiraldo-PLpgSQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Amiraldo-Canva" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg">
   <img align="center" alt="Amiraldo-Blender" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg">
+  <img align="center" alt="Amiraldo-Notion" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+  <img align="center" alt="Amiraldo-Notion" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
   </br>
   

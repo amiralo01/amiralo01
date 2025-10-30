@@ -47,3 +47,5 @@
 | ----------- | ----------- |
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=amiraldof&width=600&show_user=header&loved=true&footer_style=wave)

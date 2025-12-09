@@ -1,17 +1,6 @@
 <img align="center" alt="GIF" width="100%" max-width="1000px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFoZTE0aHV2M3VpMHNscDZkMnk5Njkwd3ZidjV1bnh2b2hvdWZrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif"/>
 
 <h1 align="center"><b>Hey there! I'm Amiraldo, Programmer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>
-
-<div align="center">
-  <a href="https://github.com/amiralo01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amiralo01&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralo01&layout=compact&langs_count=7&theme=dracula"/>
-  
-</div>
-  
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width ="25"><b> Tech Stack</b>
 	
 - **Full Stack Development**:
  <div style="display: inline_block"><br>
@@ -40,8 +29,7 @@
 </div>
 </br>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=amiralo01&repo=amiralo01&theme=react)](https://github.com/amiralo01/amiralo01)
-
+![](https://komarev.com/ghpvc/?username=amiralo01&color=79b8ff)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amiralo01&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiralo01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | 
 | ----------- | ----------- |

@@ -22,34 +22,24 @@ Currently, I'm focused on personal projects and hands-on learning: I develop web
 
 If you'd like to see examples of my work, check out my repositories and projects on this profile. Alternatively, send me a message: I'd love to discuss collaboration or job openings.
 	
-- **Full Stack Development**:
- <div style="display: inline_block"><br>
-  <img align="center" alt="Amiraldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amiraldo-Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Amiraldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amiraldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amiraldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Amiraldo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Amiraldo-C#" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Amiraldo-Unity" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Amiraldo-PLpgSQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Amiraldo-Canva" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg">
-  <img align="center" alt="Amiraldo-Blender" height="30" width="40" img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg">
-  <img align="center" alt="Amiraldo-Notion" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-  <img align="center" alt="Amiraldo-Figma" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Amiraldo-Git" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Amiraldo-Node" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Amiraldo-npm" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg">
-  <img align="center" alt="Amiraldo-wordpress" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Amiraldo-React" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Amiraldo-VSCode" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Amiraldo-mysql" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Amiraldo-photoshop" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Amiraldo-Rider" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg">
-  <img align="center" alt="Amiraldo-Next" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-
+<hr/>
+<h2 align="center">🛠️ Tech Stack</h2>
+<br/>
+<div align="center">
+Languages:
+<br>
+<img src="https://skillicons.dev/icons?i=js,java,python,php,cs,ts" /><br><br>
+Frameworks & Libraries:
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,wordpress" /><br><br>
+Databases:
+<br>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br><br>
+Tools & Others:
+<br>
+<img src="https://skillicons.dev/icons?i=git,html,css,figma,blender,unity,notion,vscode,npm,photoshop,rider,canva" /><br>
 </div>
-  </br>
+<hr/>
   
 - **Extras**:
 <div> 
